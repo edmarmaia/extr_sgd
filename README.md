@@ -2,7 +2,7 @@
 
 Aplicativo desktop Windows com React + TypeScript e Python, hospedado em pywebview / Microsoft Edge WebView2. A interface usa recursos locais, sem CDN, sem Node.js na maquina do usuario final e sem servidor de API separado. O pywebview serve os recursos locais da interface em loopback.
 
-O repositorio nao armazena URLs, identificadores, capturas ou dados dos sistemas consultados. Antes de executar ou compilar, copie `config.example.json` para `config.local.json` e preencha a configuracao do seu ambiente. `config.local.json` nao deve ser adicionado ao Git.
+Antes de executar ou compilar, copie `config.example.json` para `config.local.json` e preencha a configuracao do seu ambiente.
 
 ## Executar a interface
 
