@@ -1,0 +1,12 @@
+{
+  "status_url": "https://status.internal.example/query",
+  "denial_report_url": "https://reports.internal.example/denials",
+  "denial_departments": {
+    "DEPARTMENT_A": "denial-code-a",
+    "DEPARTMENT_B": "denial-code-b"
+  },
+  "schedule_departments": {
+    "DEPARTMENT_A": "schedule-code-a",
+    "DEPARTMENT_B": "schedule-code-b"
+  }
+}

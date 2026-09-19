@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+build/
+dist/
+.pytest_cache/
+.coverage
+
+# Configuracao e dados locais
+config.local.json
+entrada.csv
+site/
+debug/
+*.log
+saida*.xlsx
+resultado*.xlsx
+negacao_*.xls
+
+# Implementacoes fora do escopo desktop
+app.py
+create_icon.py
+Extrator_SGD.spec
+Extrator_SGD_Desktop.spec
+Extrator_SGD_Desktop.exe.config
